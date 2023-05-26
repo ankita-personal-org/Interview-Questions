@@ -1,1 +1,19 @@
-1.
+1.  Project expalnation in detail with architecture diagram
+2.  Programming question : matrix find common elements in row ....
+
+
+ * To execute Java, please define "static void main" on a class
+ * named Solution.
+ *
+ * If you need more classes, simply define them inline.
+ */Input:
+mat[4][5] = {{1, 2, 1, 4, 8},
+             {3, 7, 8, 5, 1},  1 2 
+             {8, 7, 7, 3, 1}, 1 2
+             {8, 1, 2, 7, 9}, 1 2
+            };
+
+ /**
+ Given an m x n matrix, find all common elements present in all rows in O(mn) time and one traversal of matrix.
+ 
+ 3. Two Sum ....
